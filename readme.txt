@@ -1,0 +1,1 @@
+Pathfinding Unity Project. Tests different kinds of path finding algorithms.
